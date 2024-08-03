@@ -1,3 +1,3 @@
 # aryandubey-demo
-this is my first git repositary
+this is my first git repositary.
 Athor - Aryan dubey
