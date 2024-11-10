@@ -1,4 +1,4 @@
 # aryandubey-demo
-this is my first git repositary.
+this is  my first git repositary.
 <br>
-Author - Aryan dubey
+Author - Aryan (apna college)
